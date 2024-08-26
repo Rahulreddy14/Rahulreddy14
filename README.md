@@ -1,4 +1,4 @@
-# 💫 Hey Devs,I'm Rahul :
+# 💫 Hey,I'm Rahul :
 💡 I am a Passionate Full stack Developer interested in building End to End Web applications and currently Looking for a Job oppurtunity in the Software Development Domain, Feel free to reach out .<br>
 👯 Connect with me to work together in Building Full stack End to End Applications or just for a interesting conversation <br> 
 💻 I am currently working on MERN projects, Learning System Design and DSA <br> 
