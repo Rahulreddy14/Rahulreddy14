@@ -25,9 +25,9 @@
     <a href="https://github.com/rahulreddy14" alt="Github" title="github">
        <img src="https://img.shields.io/badge/For_More_Useful_Repos-15k?style=for-the-badge&color=2088FF&logo=github&logoColor=fff"/>
     </a>
-    <a href="https://x.com/RahulReddy_tw" alt="X" title="X">
+<!--     <a href="https://x.com/RahulReddy_tw" alt="X" title="X">
         <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-    </a>
+    </a> -->
 </p>
 
 <!-- # 📊 GitHub Stats:
