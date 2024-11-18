@@ -2,9 +2,9 @@
 
 ### :man_technologist: About Me 
 
-- Brief : Software Developer, 3 years experience, Masters Student, Looking for full time roles starting Dec 2024, Region : US.
+- Brief : Software Developer, 3 years experience, Masters Student with expected Graduation in december 2024, Looking for full time roles, Region : US.
 - - 💡 I am a Passionate Full stack Developer interested in building End to End Web applications and currently Looking for a Job oppurtunity in the Software Development Domain, Feel free to reach out .<br>
-- I Worked as Software Engineer at Ford for 3 Years as a Software Developer. 
+- I Worked as Software Engineer at Ford for 3 Years. 
 - 🎓 Masters student (Graduating Dec 2024) studying <strong>Information Technology </strong> at [University if Cincinnati ](uc.edu).
 - Learning System Design and DSA <br> 
 
