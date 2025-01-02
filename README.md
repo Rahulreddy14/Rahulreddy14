@@ -5,7 +5,7 @@
 - Brief : Software Developer with 3 Years of Experience. Masters @ University of Cincinnati in MSIT . Region : US. Actively seeking Full time oppurtunities. 
 - - 💡 I am a Passionate Full stack Developer interested in building End to End Web applications and currently Looking for a Job oppurtunity in the Software Development Domain, Feel free to reach out .<br>
 - I Worked as Software Engineer at Ford for 3 Years. 
-- 🎓 Masters student (Graduating Dec 2024) studying <strong>Information Technology </strong> at [University if Cincinnati ](uc.edu).
+- 🎓 Graduated from [University if Cincinnati ](uc.edu) in MS IT program
 - Learning System Design and DSA <br> 
 
 
